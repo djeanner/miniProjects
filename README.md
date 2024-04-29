@@ -16,4 +16,15 @@ AI generate
 | **AA 3104**   | -     | -    | -    | 1.0-1.5 | 0.1  | 0.8-1.3 | Corps de canettes de boisson                     | 30                        | 643 - 654                   | 4                                       |
 | **AA 5182**   | -     | -    | -    | 4.0-5.0 | 0.15 | 0.2-0.5 | Couvercles de canettes de boisson                | 18                        | 590 - 640                   | 4                                       |
 
-This table now includes these specific alloys used in the beverage can manufacturing process, highlighting their particular uses and material properties.
+The number of registered aluminum alloy series or "normes alliage" can be categorized by their principal alloying elements and typical applications. Each series is designated by a four-digit number system as established by the Aluminum Association. Here's an overview of the main series:
+
+1. **1xxx Series**: Aluminum of 99% or higher purity. Examples include AA 1070, AA 1100, and AA 1350.
+2. **2xxx Series**: Aluminum alloys with copper as the primary alloying element. An example is AA 2024.
+3. **3xxx Series**: Aluminum alloys with manganese as the primary alloying element. An example is AA 3003.
+4. **4xxx Series**: Aluminum alloys with silicon as the primary alloying element.
+5. **5xxx Series**: Aluminum alloys with magnesium as the primary alloying element. An example is AA 5052.
+6. **6xxx Series**: Aluminum alloys with magnesium and silicon as the primary alloying elements, which forms magnesium silicide in the alloy. An example is AA 6061.
+7. **7xxx Series**: Aluminum alloys with zinc as the primary alloying element. An example is AA 7075.
+8. **8xxx Series**: Aluminum alloys with other elements such as iron and lithium. An example is AA 8011.
+
+Each of these series can include many individual alloys, tailored for specific properties or applications. The Aluminum Association registers these alloys, and their standard directory lists hundreds of different specifications and alloy compositions. Thus, the number of registered aluminum alloys can be quite extensive, likely numbering in the hundreds, as the system allows for the introduction of new alloys to meet technological advancements and engineering needs.

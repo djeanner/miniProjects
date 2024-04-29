@@ -1,4 +1,5 @@
-AI generate 
+AI generated
+
 ### Tableau des Alliages d'Aluminium et Leurs Propriétés
 
 | Norme Alliage | % Si  | % Zn | % Ti | % Mg  | % Cu  | % Mn  | Applications courantes                            | Ductilité (% Élongation) | Température de Fusion (°C) | Résistance à la Corrosion (échelle 1-5) |
